@@ -37,7 +37,8 @@ https://public.tableau.com/app/profile/siva.senthil.vignesh.siva.senthil.vignesh
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+<img width="1655" height="794" alt="image" src="https://github.com/user-attachments/assets/31701f77-db83-4001-8b35-b42976a011d4" />
+
 
 ---
 
